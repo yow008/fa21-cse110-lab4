@@ -63,7 +63,7 @@ F. `true`. Since `2` is a non-zero integer, `Boolean(2)` returns true, which is 
 The result will be array [2, 4, 6]. After we calling method `modifyArray`, JavaScript initializes an empty array, and starts executing the for loop. In each iteration, it picks the corresponding value in the array, using this value as an input of `callback`, which is `doSomething`. The `doSomething` essentially doubles the input value. Then, it puts this new number into the new array. After all elements in the original array have been used, JavaScript exits the for loop, and returns the new array.
 
 ### 19
-1
-3
-4
-2
+1<br>
+3<br>
+4<br>
+2<br>
